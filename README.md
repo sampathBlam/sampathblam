@@ -31,6 +31,8 @@ ____
 </a>
 
 ##### You can reach me here
+[![Linkedin Badge](https://img.shields.io/badge/-sampathblam-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sampathblam/)](https://www.linkedin.com/in/sampathblam/)
+[![Gmail Badge](https://img.shields.io/badge/-sampath3493@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sampath3493@gmail.com)](mailto:sampath@gmail.com)
 
 <!--
 **sampathBlam/sampathblam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
