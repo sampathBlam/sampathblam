@@ -4,14 +4,22 @@ ____
 :office: Software Engineering Lead @ <a href="https://www.trimble.com/"> Trimble Inc. </a><br>
 :house: Lives in Chennai, India
 
-##### Languages I have used
+#### Languages I have used
+![C](https://img.shields.io/badge/-C-787878?style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-787878?style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-787878?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-787878?style=for-the-badge&logo=Java&logoColor=f89820)
+![JavaScript](https://img.shields.io/badge/-JavaScript-787878?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-787878?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-787878?style=for-the-badge&logo=HTML5)
+![Ruby](https://img.shields.io/badge/-Ruby-787878?style=for-the-badge&logo=ruby&logoColor=D51F06)
 
-
-##### Some of the technologies I have worked with
-
-
-##### I am currently working on
-
+#### Some of the technologies I have worked with
+![Android](https://img.shields.io/badge/-Android-787878?style=for-the-badge&logo=android)
+![Xamarin](https://img.shields.io/badge/-Xamarin-787878?style=for-the-badge&logo=xamarin)
+![React](https://img.shields.io/badge/-React-787878?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/-NodeJS-787878?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-787878?style=for-the-badge&logo=mongodb)
 
 ##### My Github Stats
 
