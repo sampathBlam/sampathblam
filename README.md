@@ -22,7 +22,7 @@ ____
 ![MongoDB](https://img.shields.io/badge/-MongoDB-787878?style=for-the-badge&logo=mongodb)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-787878?style=for-the-badge&logo=elasticsearch&logoColor=005571)
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-787878?style=for-the-badge&logo=amazon-aws&logoColor=232F3E)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-787878?style=for-the-badge&logo=amazon-aws&logoColor=f89820)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-787878?style=for-the-badge&logo=google-cloud)
 
 #### My Github Stats
