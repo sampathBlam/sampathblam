@@ -28,10 +28,10 @@ ____
 #### My Github Stats
 
 <a href="https://github.com/sampathblam/sampathblam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampathblam" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampathblam&hide_border=true&show_icons=true" />
 </a>
 <a href="https://github.com/sampathblam/sampathblam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sampathblam&show_icons=true&line_height=34&count_private=true" alt="Sampath's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sampathblam&show_icons=true&line_height=34&count_private=false&hide_border=true" alt="Sampath's GitHub Stats" />
 </a>
 
 ### You can reach me here
