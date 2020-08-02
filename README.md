@@ -1,4 +1,4 @@
-### Hi, I am Sampath Kumar Krishnan
+### Hi, I am Sampath Kumar Krishnan :wave:
 ____
 
 :office: Software Engineering Lead @ <a href="https://www.trimble.com/"> Trimble Inc. </a><br>
