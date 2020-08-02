@@ -1,6 +1,6 @@
 ### Hi, I am Sampath Kumar Krishnan :wave:
 ____
-<img align='right' src="assets/bitmoji.png" width="230">
+<img align='right' src="https://github.com/sampathblam/sampathblam/raw/master/assets/bitmoji.png" width="230">
 :office: Software Engineering Lead @ <a href="https://www.trimble.com/"> Trimble Inc. </a><br>
 :house: Lives in Chennai, India
 
