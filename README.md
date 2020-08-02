@@ -20,6 +20,10 @@ ____
 ![React](https://img.shields.io/badge/-React-787878?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-787878?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-787878?style=for-the-badge&logo=mongodb)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-787878?style=for-the-badge&logo=elasticsearch&logoColor=005571)
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-787878?style=for-the-badge&logo=amazon-aws&logoColor=232F3E)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-787878?style=for-the-badge&logo=google-cloud)
 
 #### My Github Stats
 
